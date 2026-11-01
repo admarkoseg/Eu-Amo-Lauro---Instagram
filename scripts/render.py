@@ -154,6 +154,7 @@ def fade_bottom(img, y0, y1, color=NAVY):
 # ---------- pecas ----------
 def cover_slide(job, photo, W=1080, H=1350, photo_h=None, title_box=None, zoom=1.0, pan=0.5, story=False):
     img = Image.new("RGB", (W, H), NAVY)
+    pan = job.get("pan", pan)
     photo_h = photo_h or int(H * 0.56)
     img.paste(cover_crop(photo, W, photo_h, zoom, pan), (0, 0))
     fade_bottom(img, int(photo_h * 0.55), photo_h)
@@ -176,7 +177,7 @@ def cover_slide(job, photo, W=1080, H=1350, photo_h=None, title_box=None, zoom=1
     f, lines, lh = fit_title(d, job["title"], W - x - 70, bottom_limit - y, sizes)
     y = draw_marked_lines(d, lines, f, x, y, lh)
     if job.get("credit"):
-        cf = font("Regular", 20)
+        cf = font("Medium", 22)
         d.text((W - 30, photo_h - 70), job["credit"], font=cf, fill=(235, 240, 245), anchor="rs")
     if story:
         cta(d, W, H, "Matéria completa no link da bio", y0=H - 290)
