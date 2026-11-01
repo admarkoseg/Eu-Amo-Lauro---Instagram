@@ -163,10 +163,10 @@ def cover_slide(job, photo, W=1080, H=1350, photo_h=None, title_box=None, zoom=1
     fade_bottom(img, int(photo_h * 0.55), photo_h)
     img = img.convert("RGBA")
     # vinheta no topo para o logo aparecer
-    VH = 320 if story else 290
+    VH = 480 if story else 290
     top = Image.new("RGBA", (W, VH), (0, 0, 0, 0)); td = ImageDraw.Draw(top)
     for i in range(VH):
-        td.line((0, i, W, i), fill=(3, 43, 68, int(200 * (1 - i / VH) ** 1.3)))
+        td.line((0, i, W, i), fill=(3, 43, 68, int(215 * (1 - i / VH) ** 1.1)))
     img.alpha_composite(top, (0, 0))
     wordmark(img, W - 60, 56 if not story else 120, size=40 if not story else 46)
     img = img.convert("RGB")
