@@ -5,7 +5,7 @@
  "label": "Receita da data",
  "title": "*Cocada baiana* para abrir o mês da Consciência Negra",
  "cover_url": null,
- "credit": "Foto: Amanda Oliveira/Salvador da Bahia",
+ "credit": "Lavagem do Largo do Caranguejo · Foto: Viviane Moreira/Prefeitura de Lauro de Freitas",
  "slides": [
   {
    "label": "Tradição",
@@ -36,10 +36,11 @@
   }
  ],
  "caption": "Novembro é o mês da Consciência Negra e a receita da data é uma joia do tabuleiro da baiana: a cocada! 🥥✨\n\nCom coco fresco, açúcar e água, você faz em casa um doce simples, barato e cheio de história. O Ofício das Baianas de Acarajé é patrimônio cultural do Brasil, e a cocada faz parte dele.\n\n🔗 Receita completa, passo a passo e dicas de ponto: link na bio\n\nVai fazer? Salve o post e marque quem vai dividir com você! 💚\n\n#LauroDeFreitas #EuAmoLauro #LauroDeFreitasBA #RMS #Bahia #CocadaBaiana #ConsciênciaNegra #CulináriaBaiana #ReceitaDaData",
- "cover_file": null,
+ "cover_file": "covers/7230/cand-2.jpg",
  "photo_pages": [
   "https://laurodefreitas.ba.gov.br/site/noticia/manifestaaaes-culturais-marcam-40a-ediaao-da-lavagem-do-largo-do-caranguejo/6677",
   "https://laurodefreitas.ba.gov.br/2021/noticias/curso-ensina-preparo-de-acaraje-e-abara-para-beneficiarias-do-programa-bolsa-familia/1673",
   "https://laurodefreitas.ba.gov.br/site/noticia/lauro-de-freitas-celebra-mas-da-consciancia-negra-com-corrida-da-igualdade-neste-domingo-30/6603"
- ]
+ ],
+ "pan": 0.5
 }
