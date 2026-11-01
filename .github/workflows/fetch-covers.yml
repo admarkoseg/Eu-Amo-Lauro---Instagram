@@ -1,0 +1,25 @@
+name: Baixar capas das materias
+on:
+  push:
+    paths: ["jobs/**.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fetch-covers
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Baixar capas pendentes
+        run: python3 scripts/fetch_covers.py
+      - name: Salvar no repositorio
+        run: |
+          git config user.name "euamolauro-bot"
+          git config user.email "bot@euamolauro.com.br"
+          git add covers
+          if git diff --cached --quiet; then echo "nada novo"; exit 0; fi
+          git commit -m "capas: download automatico"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
