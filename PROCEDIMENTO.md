@@ -1,5 +1,12 @@
 # Instagram @euamolauro – versão social de cada matéria
 
+> **REGRA Nº 1 – SÓ PUBLIQUE PEÇAS GERADAS PELO `scripts/render.py` DESTE REPOSITÓRIO.**
+> É ele que aplica o logo oficial do Eu Amo Lauro. É PROIBIDO postar no Instagram a capa do site,
+> a foto crua, arte feita de outro jeito ou qualquer imagem sem passar pelo render.py.
+> Se algo impedir (repositório, Actions, render.py, foto), NÃO publique no Instagram: publique só a
+> matéria do site e avise o Rodrigo do que falhou. Sem exceção.
+
+
 Toda matéria publicada em euamolauro.com.br ganha, no mesmo dia, uma versão no Instagram **@euamolauro**:
 **feed (carrossel) ou Reels + 1 Story**. O dono autorizou publicação direta.
 
