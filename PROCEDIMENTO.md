@@ -13,6 +13,11 @@ Toda matéria publicada em euamolauro.com.br ganha, no mesmo dia, uma versão no
 - O Instagram busca os arquivos pela CDN, **sempre fixada no commit**:
   `https://cdn.jsdelivr.net/gh/admarkoseg/eu-amo-lauro---instagram@<SHA>/posts/<id>/<arquivo>`.
 
+## Logo (regra do dono)
+- Use SOMENTE o arquivo oficial do logo Eu Amo Lauro: `brand/logo-branco.png` (versão para fundo escuro)
+  e/ou `brand/logo.png`. Nunca redesenhe, recrie em texto ou altere cores/proporções do logo.
+- O `render.py` para com erro se o arquivo não estiver no repositório: nesse caso NÃO publique e avise o dono.
+
 ## Passo a passo
 1. **O que publicar**: matéria nova desta execução + qualquer post dos últimos 3 dias que não esteja em
    `published.json` (nem em `_ignorados`). Não publique evento que já passou nem prazo encerrado.

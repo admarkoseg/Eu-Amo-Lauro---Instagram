@@ -91,6 +91,9 @@ def wordmark(img, x_right, y, size=34):
     """Logo do portal; sem arquivo de logo, escreve 'Eu ♥ Lauro' em texto."""
     d = ImageDraw.Draw(img)
     lg = load_logo(int(size * 6))
+    if lg is None:
+        sys.exit("ERRO: falta o logo oficial em brand/logo-branco.png (ou brand/logo.png). "
+                 "Regra do dono: nunca recriar o logo do Eu Amo Lauro. Nao publique.")
     if lg:
         img.alpha_composite(lg, (x_right - lg.width, y)) if img.mode == "RGBA" else img.paste(lg, (x_right - lg.width, y), lg)
         return
