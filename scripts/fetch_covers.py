@@ -2,7 +2,11 @@
 Roda no GitHub Actions, que tem acesso ao site. So aceita URLs de dominios confiaveis."""
 import json, os, glob, urllib.request, urllib.parse
 
-ALLOWED = ("euamolauro.com.br",)
+# Fontes oficiais e bancos livres (protocolo de imagens do portal). Nunca jornais/portais de noticia.
+ALLOWED = ("euamolauro.com.br", "laurodefreitas.ba.gov.br", "ba.gov.br", "gov.br", "neoenergia.com",
+           "embasa.ba.gov.br", "sebrae.com.br", "sesc-ba.com.br", "senai.ba", "ifba.edu.br",
+           "parqueshoppingbahia.com.br", "salvadordabahia.com", "upload.wikimedia.org",
+           "images.unsplash.com", "images.pexels.com")
 os.makedirs("covers", exist_ok=True)
 for path in sorted(glob.glob("jobs/*.json")):
     job = json.load(open(path, encoding="utf-8"))
