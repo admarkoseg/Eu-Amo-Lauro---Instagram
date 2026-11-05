@@ -27,20 +27,38 @@ def font(weight, size):
 
 # ---------- texto ----------
 def parse_marked(text):
-    """'Curso *gratuito* em Lauro' -> [(palavra, destaque?)]"""
-    out, hi = [], False
+    """'Curso *gratuito*: 27 vagas' -> [(palavra, destaque?)]; pontuação colada após o destaque
+    (ex.: '*Buraquinho*:') fica grudada na palavra anterior, sem espaço."""
+    out, hi, prev = [], False, " "
     for part in text.split("*"):
+        cur_part = part
+        if out and part[:1] and not part[:1].isspace() and prev[-1:] and not prev[-1:].isspace():
+            first, _, rest = part.partition(" ")
+            out.append((first, hi, True))  # True = colar na anterior
+            part = rest
         for w in part.split():
-            out.append((w, hi))
+            out.append((w, hi, False))
+        prev = cur_part or prev
         hi = not hi
-    return out
+    # junta os pedaços colados mantendo a cor de cada um
+    merged = []
+    for w, h, glue in out:
+        if glue and merged:
+            merged[-1] = merged[-1] + [(w, h)]
+        else:
+            merged.append([(w, h)])
+    return merged
+
+
+def _txt(item):
+    return "".join(p[0] for p in item) if isinstance(item, list) else item[0]
 
 
 def wrap_words(words, fnt, max_w, draw):
     lines, cur = [], []
     for w in words:
         test = cur + [w]
-        if draw.textlength(" ".join(x[0] for x in test), font=fnt) <= max_w or not cur:
+        if draw.textlength(" ".join(_txt(x) for x in test), font=fnt) <= max_w or not cur:
             cur = test
         else:
             lines.append(cur); cur = [w]
@@ -64,9 +82,11 @@ def draw_marked_lines(draw, lines, fnt, x, y, lh, color=WHITE, hi=GREEN):
     space = draw.textlength(" ", font=fnt)
     for line in lines:
         cx = x
-        for w, h in line:
-            draw.text((cx, y), w, font=fnt, fill=hi if h else color)
-            cx += draw.textlength(w, font=fnt) + space
+        for item in line:
+            for w, h in (item if isinstance(item, list) else [item]):
+                draw.text((cx, y), w, font=fnt, fill=hi if h else color)
+                cx += draw.textlength(w, font=fnt)
+            cx += space
         y += lh
     return y
 
