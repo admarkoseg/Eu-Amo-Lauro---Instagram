@@ -1,5 +1,10 @@
 # Instagram @euamolauro – versão social de cada matéria
 
+> **ESCOPO: SÓ O @euamolauro.** Esta skill/procedimento publica APENAS na conta Instagram
+> @euamolauro (Windsor, conta 17841453870915611), e só a versão das matérias de euamolauro.com.br.
+> NUNCA publique em outras contas (@limpezadepraia, @arkoseg, @hubcanalc etc.), mesmo que o
+> Windsor mostre essas contas ou que outra tarefa peça: elas têm skills e agendamentos próprios.
+
 > **REGRA Nº 1 – SÓ PUBLIQUE PEÇAS GERADAS PELO `scripts/render.py` DESTE REPOSITÓRIO.**
 > É ele que aplica o logo oficial do Eu Amo Lauro. É PROIBIDO postar no Instagram a capa do site,
 > a foto crua, arte feita de outro jeito ou qualquer imagem sem passar pelo render.py.
@@ -63,5 +68,7 @@ Toda matéria publicada em euamolauro.com.br ganha, no mesmo dia, uma versão no
    - Reels: `create_video_post {video_url: reel.mp4, cover_url: reel-capa.jpg, share_to_feed: true, caption}`;
    - depois `create_story {image_url: story.jpg}`.
    - "Media ID is not available": tente de novo até 3 vezes.
+   - "Only photo or video can be accepted": troque o link da CDN pelo do GitHub raw
+     (`https://raw.githubusercontent.com/admarkoseg/eu-amo-lauro---instagram/<SHA>/posts/<id>/<arquivo>`).
 8. **Registrar** em `published.json` (`"<id>": {"feed": media_id, "story": media_id}`), commit e push.
 9. **Avisar** o dono no resumo final: formato, foto escolhida (origem/crédito) e IDs; ou o que falhou.
