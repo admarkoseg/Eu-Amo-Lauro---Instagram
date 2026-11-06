@@ -4,13 +4,10 @@
  "kind": "carousel",
  "label": "Onde resolver",
  "title": "*Embasa* em Lauro: como resolver sem sair de casa",
- "cover_url": null,
+ "cover_url": "https://images.unsplash.com/photo-1495647688236-ed6ef40cb28b?fm=jpg&q=85&w=2000",
  "cover_file": null,
  "credit": "",
- "photo_pages": [
-  "https://www.ba.gov.br/comunicacao/2024/08/noticias/atendimento-itinerante-da-embasa-chega-a-lauro-de-freitas",
-  "https://www.ba.gov.br/comunicacao/2021/08/noticias/embasa-diversifica-canais-de-atendimento-remoto-ao-cliente"
- ],
+ "photo_pages": [],
  "slides": [
   {
    "label": "WhatsApp 24h",
