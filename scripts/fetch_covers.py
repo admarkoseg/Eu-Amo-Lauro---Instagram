@@ -11,7 +11,7 @@ import json, os, glob, re, html, urllib.request, urllib.parse
 
 ALLOWED = ("euamolauro.com.br", "laurodefreitas.ba.gov.br", "ba.gov.br", "gov.br", "neoenergia.com",
            "sebrae.com.br", "sesc-ba.com.br", "ifba.edu.br", "parqueshoppingbahia.com.br",
-           "salvadordabahia.com", "wikimedia.org", "unsplash.com", "pexels.com")
+           "salvadordabahia.com", "fieb.org.br", "senaibahia.com.br", "wikimedia.org", "unsplash.com", "pexels.com")
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36"}
 SKIP = re.compile(r"logo|icon|banner|sprite|avatar|whatsapp|facebook|instagram|twitter|youtube|selo|badge|\.svg|\.gif", re.I)
 
