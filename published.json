@@ -89,5 +89,10 @@
   "feed": "18045780728821137",
   "story": "18137334355738603",
   "obs": "automático"
+ },
+ "7285": {
+  "feed": "18103988024355492",
+  "story": "17931101835180907",
+  "obs": "automático; story saiu na 2ª tentativa (raw) após 'Media ID is not available' — conferir duplicado"
  }
 }
