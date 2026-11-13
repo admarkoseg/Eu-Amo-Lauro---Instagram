@@ -126,8 +126,8 @@
   "obs": "automático"
  },
  "7303": {
-  "feed": "nao-confirmado",
+  "feed": "18131262173310024",
   "story": "18027168899864496",
-  "obs": "automático; carrossel deu 'Media ID is not available' 2x (raw) após 'Only photo or video' (CDN), 3 tentativas; não apareceu no get_data — conferir no app (pode ter saído 0, 1 ou 2 vezes)"
+  "obs": "automático; carrossel publicado na 2ª execução (re-fire manual) via CDN após 3 falhas na 1ª (Only photo or video + Media ID is not available). Story publicado na 1ª."
  }
 }
