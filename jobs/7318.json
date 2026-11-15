@@ -6,13 +6,7 @@
  "title": "INSS em Lauro: *como agendar* e o que levar",
  "cover_file": "",
  "credit": "",
- "photo_pages": [
-  "https://www.gov.br/inss/pt-br/assuntos/projeto-inclusao-inss-realizou-54-atendimentos-em-lauro-de-freitas-ba",
-  "https://www.ba.gov.br/administracao/noticia/2024-04/8064/previdencia-social-lanca-primeira-agencia-dentro-de-um-posto-sac-na-bahia",
-  "https://www.ba.gov.br/administracao/noticia/2024-09/8226/previdencia-social-lanca-unidade-de-atendimento-no-sac-comercio",
-  "https://www.comunicacao.ba.gov.br/2024/09/noticias/administracao/unidade-do-inss-no-sac-comercio-em-salvador-inicia-atendimento-nesta-segunda-feira-9/",
-  "https://commons.wikimedia.org/wiki/File:Fachada_do_Instituto_Nacional_do_Seguro_Social_(INSS)_(47095608621).jpg"
- ],
+ "photo_pages": [],
  "slides": [
   {
    "label": "Agendamento",
@@ -47,5 +41,12 @@
  ],
  "cta": "Compartilhe com quem precisa do INSS.",
  "caption": "Precisa do INSS em Lauro? Veja como agendar e o que dá para resolver sem fila 📋👇\n\n📱 Agende pelo app ou site Meu INSS, com sua conta gov.br\n☎️ Ou ligue 135: segunda a sábado, das 7h às 22h\n📍 Agência: Rua Romualdo de Brito, 8, Centro (confirme pelo 135 antes de ir)\n🪪 Leve documento oficial com foto e CPF\n🏠 Extrato, pedidos de benefício e acompanhamento saem pelo Meu INSS\n⚠️ O INSS não cobra para agendar nem para liberar benefício\n\n🔗 Passo a passo completo na matéria: link na bio\n\nCompartilhe com quem precisa resolver algo no INSS! 💚\n\n#LauroDeFreitas #EuAmoLauro #LauroDeFreitasBA #RMS #Bahia #INSS #MeuINSS #Aposentadoria #ServicosLauro",
- "pan": 0.5
+ "pan": 0.5,
+ "cover_url": "https://images.pexels.com/photos/7545050/pexels-photo-7545050.jpeg?auto=compress&cs=tinysrgb&w=1600",
+ "extra_image_urls": [
+  "https://images.pexels.com/photos/7545051/pexels-photo-7545051.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "https://images.pexels.com/photos/7544864/pexels-photo-7544864.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "https://images.pexels.com/photos/7544789/pexels-photo-7544789.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "https://images.pexels.com/photos/7544783/pexels-photo-7544783.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ ]
 }
