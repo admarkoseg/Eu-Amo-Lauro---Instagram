@@ -7,13 +7,7 @@
  "cover_file": "",
  "credit": "",
  "pan": 0.5,
- "photo_pages": [
-  "https://www.ba.gov.br/trabalho/sinebahia",
-  "https://www.ba.gov.br/trabalho/noticia/2024-02/5270/sinebahia-disponibiliza-telefone-para-tirar-duvidas-sobre-seguro-desemprego",
-  "https://www.sac.ba.gov.br/unidades/1571",
-  "https://laurodefreitas.ba.gov.br/site/noticia/gestao-municipal-divulga-balanao-de-2025-da-semdet/6764",
-  "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego"
- ],
+ "photo_pages": [],
  "slides": [
   {
    "label": "Quem tem direito",
@@ -46,5 +40,9 @@
   }
  ],
  "cta": "Compartilhe com quem perdeu o emprego.",
- "caption": "Foi dispensado sem justa causa? Dá para pedir o seguro-desemprego sem sair de casa 💼👇\n\n📱 App Carteira de Trabalho Digital (Android e iOS)\n💻 Portal: portalcidadao.dataprev.gov.br\n☎️ Telefone 158, central do Ministério do Trabalho\n📍 Presencial: SineBahia (confira a unidade mais próxima em ba.gov.br/trabalho/sinebahia)\n📄 Separe o Requerimento entregue pela empresa, o CPF e a conta gov.br\n💰 É gratuito; a parcela cai a cada 30 dias em conta no seu nome\n\n🔗 Quem tem direito e o passo a passo na matéria: link na bio\n\nConhece alguém que perdeu o emprego? Compartilhe com ele! 💚\n\n#LauroDeFreitas #EuAmoLauro #LauroDeFreitasBA #RMS #Bahia #SeguroDesemprego #DireitosDoTrabalhador #SineBahia #ServicosPublicos"
+ "caption": "Foi dispensado sem justa causa? Dá para pedir o seguro-desemprego sem sair de casa 💼👇\n\n📱 App Carteira de Trabalho Digital (Android e iOS)\n💻 Portal: portalcidadao.dataprev.gov.br\n☎️ Telefone 158, central do Ministério do Trabalho\n📍 Presencial: SineBahia (confira a unidade mais próxima em ba.gov.br/trabalho/sinebahia)\n📄 Separe o Requerimento entregue pela empresa, o CPF e a conta gov.br\n💰 É gratuito; a parcela cai a cada 30 dias em conta no seu nome\n\n🔗 Quem tem direito e o passo a passo na matéria: link na bio\n\nConhece alguém que perdeu o emprego? Compartilhe com ele! 💚\n\n#LauroDeFreitas #EuAmoLauro #LauroDeFreitasBA #RMS #Bahia #SeguroDesemprego #DireitosDoTrabalhador #SineBahia #ServicosPublicos",
+ "extra_image_urls": [
+  "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?fm=jpg&q=85&w=2000",
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Carteira_de_Trabalho_e_Previd%C3%AAncia_Social.jpg?width=1600"
+ ]
 }
