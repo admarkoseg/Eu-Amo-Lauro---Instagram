@@ -4,9 +4,9 @@
  "kind": "carousel",
  "label": "Onde resolver",
  "title": "Passaporte: *como tirar, quanto custa e prazo*",
- "cover_file": "",
- "credit": "",
- "pan": 0.5,
+ "cover_file": "covers/7401/cand-2.jpg",
+ "credit": "Foto ilustrativa: Global Residence Index/Unsplash",
+ "pan": 0.55,
  "photo_pages": [],
  "slides": [
   {
@@ -25,7 +25,7 @@
    "bullets": [
     "Comum: R$ 257,25",
     "Urgência: R$ 334,42",
-    "Perda de passaporte válido: R$ 514,50",
+    "Se perder um válido: R$ 514,50",
     "Favorecido: Ministério da Justiça ou Tesouro"
    ]
   },
