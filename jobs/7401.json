@@ -7,13 +7,7 @@
  "cover_file": "",
  "credit": "",
  "pan": 0.5,
- "photo_pages": [
-  "https://unsplash.com/photos/a-passport-sitting-on-top-of-a-computer-keyboard-xXS03_k8yc0",
-  "https://www.gov.br/pf/pt-br/assuntos/passaporte/duvidas",
-  "https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro",
-  "https://www.ba.gov.br/servico/pf/obter-passaporte-comum-para-brasileiro",
-  "https://unsplash.com/s/photos/passport"
- ],
+ "photo_pages": [],
  "slides": [
   {
    "label": "Passo a passo",
@@ -47,5 +41,13 @@
   }
  ],
  "cta": "Salve e compartilhe com quem vai viajar.",
- "caption": "Vai viajar para fora do país? Veja como tirar o passaporte morando em Lauro de Freitas ✈️👇\n\n💻 Pedido pelo gov.br: \"Obter passaporte comum para brasileiro\"\n💰 Taxa comum: R$ 257,25 (Pix compensa na hora)\n📅 Agende dia, horário e posto da Polícia Federal após o pagamento\n🖐️ No atendimento, leve os documentos originais: a PF colhe digitais e foto\n⏱️ Fica pronto em 6 a 10 dias úteis após o atendimento\n⚠️ Cuidado com golpes: confira se o favorecido é o Ministério da Justiça ou o Tesouro Nacional\n\n🔗 Passo a passo completo, regras para crianças e validade na matéria: link na bio\n\nSalve este post e marque quem está planejando viajar! 💚\n\n#LauroDeFreitas #EuAmoLauro #LauroDeFreitasBA #RMS #Bahia #Passaporte #PoliciaFederal #Viagem #ServicosPublicos"
+ "caption": "Vai viajar para fora do país? Veja como tirar o passaporte morando em Lauro de Freitas ✈️👇\n\n💻 Pedido pelo gov.br: \"Obter passaporte comum para brasileiro\"\n💰 Taxa comum: R$ 257,25 (Pix compensa na hora)\n📅 Agende dia, horário e posto da Polícia Federal após o pagamento\n🖐️ No atendimento, leve os documentos originais: a PF colhe digitais e foto\n⏱️ Fica pronto em 6 a 10 dias úteis após o atendimento\n⚠️ Cuidado com golpes: confira se o favorecido é o Ministério da Justiça ou o Tesouro Nacional\n\n🔗 Passo a passo completo, regras para crianças e validade na matéria: link na bio\n\nSalve este post e marque quem está planejando viajar! 💚\n\n#LauroDeFreitas #EuAmoLauro #LauroDeFreitasBA #RMS #Bahia #Passaporte #PoliciaFederal #Viagem #ServicosPublicos",
+ "extra_image_urls": [
+  "https://images.unsplash.com/photo-1639034741369-1e0c771adaeb?fm=jpg&q=85&w=2000",
+  "https://images.unsplash.com/photo-1553697388-94e804e2f0f6?fm=jpg&q=85&w=2000",
+  "https://images.unsplash.com/photo-1655722725332-9925c96dd627?fm=jpg&q=85&w=2000",
+  "https://images.unsplash.com/photo-1532188142562-df556b861e6a?fm=jpg&q=85&w=2000",
+  "https://images.unsplash.com/photo-1454496406107-dc34337da8d6?fm=jpg&q=85&w=2000",
+  "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?fm=jpg&q=85&w=2000"
+ ]
 }
