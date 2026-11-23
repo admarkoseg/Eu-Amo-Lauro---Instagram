@@ -4,8 +4,8 @@
  "kind": "carousel",
  "label": "Onde resolver",
  "title": "Cartão SUS: *como fazer e achar o número*",
- "cover_file": "",
- "credit": "",
+ "cover_file": "covers/7404/cand-26.jpg",
+ "credit": "Unidade de saúde em Lauro · Foto: Tiago Pacheco/Prefeitura de Lauro de Freitas",
  "pan": 0.5,
  "photo_pages": [
   "https://laurodefreitas.ba.gov.br/site/noticia/3072026-especial-lauro-64-anos-prefeitura-entrega-nova-usf-do-centro-com-estrutura-moderna-e-atendimento-humanizado/7723",
@@ -32,7 +32,7 @@
     "Av. Luiz Tarquínio Pontes, 600 (Unime)",
     "Leve RG ou CNH + comprovante de endereço",
     "Ligue antes: (71) 3190-6139"
-  ]
+   ]
   },
   {
    "label": "No celular",
