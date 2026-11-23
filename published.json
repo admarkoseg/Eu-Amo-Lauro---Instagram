@@ -1,270 +1,275 @@
 {
-  "7204": {
-    "feed": "17870327796663450",
-    "story": "18101450843385144"
-  },
-  "7223": {
-    "feed": "17950783026299920",
-    "story": "18088807415295345"
-  },
-  "7225": {
-    "feed": "18110809648924982",
-    "story": "18120624641073717"
-  },
-  "7229": {
-    "feed": "17915407524547477",
-    "story": "18128438539859116"
-  },
-  "7230": {
-    "feed": "18116025937843288",
-    "story": "18092403359680075"
-  },
-  "_ignorados": {
-    "7199": "evento ja passou (24/10)",
-    "7196": "eleicoes/fora de linha",
-    "7149": "evento ja passou (31/10)"
-  },
-  "7241": {
-    "feed": "18016726820959331",
-    "story": "18104108081042478"
-  },
-  "7244": {
-    "feed": "18110103455249373",
-    "story": "17897712468681990",
-    "obs": "a rotina das 11h32 postou antes uma versao sem o logo oficial"
-  },
-  "7247": {
-    "feed": "18096850964246614",
-    "story": "17903648376378053"
-  },
-  "7249": {
-    "feed": "17953415748335704",
-    "story": "18350681533253992"
-  },
-  "7252": {
-    "feed": "18112317107223737",
-    "story": "18110860787183013"
-  },
-  "7254": {
-    "feed": "17898452865419349",
-    "story": "18161164294511853",
-    "obs": "carrossel+story publicados em 06/11 a pedido do Rodrigo; story sem figurinha de link (a API do Instagram nao permite)"
-  },
-  "7256": {
-    "feed": "17945298108093842",
-    "story": "17911136094593135",
-    "obs": "publicado manualmente em 06/11 (rotina antecipada nao fez o Instagram)"
-  },
-  "7258": {
-    "feed": "18114040862614328",
-    "story": "17944601370369407",
-    "obs": "reel; publicado manualmente em 06/11 (rotina antecipada nao fez o Instagram)"
-  },
-  "7260": {
-    "feed": "17915241072506838",
-    "story": "18118620416601045",
-    "obs": "publicado manualmente em 07/11 a pedido do Rodrigo (rotina das 7h nao fez o Instagram)"
-  },
-  "7263": {
-    "feed": "18119279456092182",
-    "story": "18139106305637719",
-    "obs": "publicado manualmente em 08/11 (rotina das 11h32 de 07/11 nao fez o Instagram)"
-  },
-  "7265": {
-    "feed": "17991717075116751",
-    "story": "17919228807535272",
-    "obs": "publicado manualmente em 08/11"
-  },
-  "7273": {
-    "feed": "18045883331834287",
-    "story": "17915213715499385",
-    "obs": "pedido manual do Rodrigo (rede de segurança não pegou)"
-  },
-  "7276": {
-    "feed": "17888419857624598",
-    "story": "18149245246585761",
-    "obs": "pauta do Rodrigo (post do Instagram DfcvxDHMhCa) em 09/11; carrossel+story"
-  },
-  "7283": {
-    "feed": "18045780728821137",
-    "story": "18137334355738603",
-    "obs": "automático"
-  },
-  "7285": {
-    "feed": "18103988024355492",
-    "story": "17931101835180907",
-    "obs": "automático; story saiu na 2ª tentativa (raw) após 'Media ID is not available' — conferir duplicado"
-  },
-  "7287": {
-    "feed": "17894692245448153",
-    "story": "17941732725388982",
-    "obs": "automático"
-  },
-  "7289": {
-    "feed": "18581196277077273",
-    "story": "18358269160301967",
-    "obs": "automático"
-  },
-  "7293": {
-    "feed": "18137246818663495",
-    "story": "18118536554141167",
-    "obs": "automático"
-  },
-  "7298": {
-    "feed": "18122813443962719",
-    "story": "18345266857259854",
-    "obs": "automático"
-  },
-  "7296": {
-    "feed": "17925262299447799",
-    "story": "18102981896530925",
-    "obs": "automático"
-  },
-  "7300": {
-    "feed": "18454587925135173",
-    "story": "18374558758209044",
-    "obs": "automático"
-  },
-  "7303": {
-    "feed": "18131262173310024",
-    "story": "18027168899864496",
-    "obs": "automático; carrossel publicado na 2ª execução (re-fire manual) via CDN após 3 falhas na 1ª (Only photo or video + Media ID is not available). Story publicado na 1ª."
-  },
-  "7307": {
-    "feed": "18358896022172066",
-    "story": "18171614476477721",
-    "obs": "automático"
-  },
-  "7310": {
-    "feed": "18358127998169031",
-    "story": "18189210277424589",
-    "obs": "automático"
-  },
-  "7313": {
-    "feed": "17914088991558766",
-    "story": "18093755975690057",
-    "obs": "automático"
-  },
-  "7316": {
-    "feed": "18155647828526607",
-    "story": "18130580740866110",
-    "obs": "automático"
-  },
-  "7318": {
-    "feed": "18094233341228527",
-    "story": "18108992738204845",
-    "obs": "automático"
-  },
-  "7319": {
-    "feed": "18134425126838449",
-    "story": "18028763624923567",
-    "obs": "automático"
-  },
-  "7322": {
-    "feed": "18110952038362847",
-    "story": "18049587686826478",
-    "obs": "automático"
-  },
-  "7323": {
-    "feed": "18136914805758541",
-    "story": "17916653811514340",
-    "obs": "automático"
-  },
-  "7325": {
-    "feed": "18099735638442757",
-    "story": "18121719409974424",
-    "obs": "automático"
-  },
-  "7327": {
-    "feed": "17922664317240518",
-    "story": "18112003892223168",
-    "obs": "automático"
-  },
-  "7329": {
-    "feed": "17894227113459066",
-    "story": "18122584648777626",
-    "obs": "automático"
-  },
-  "7330": {
-    "feed": "18092025386271368",
-    "story": "18000278006994373"
-  },
-  "7337": {
-    "feed": "18128275853513842",
-    "story": "18239999374319960",
-    "obs": "automático"
-  },
-  "7339": {
-    "feed": "18193841443409417",
-    "story": "18139913971643366",
-    "obs": "automático"
-  },
-  "7326": {
-    "feed": "17899100829416464",
-    "story": "18349043911281854",
-    "obs": "automático"
-  },
-  "7384": {
-    "feed": "18137089132671868",
-    "story": "17896566177435823",
-    "obs": "automático"
-  },
-  "7385": {
-    "feed": "17896974648615811",
-    "story": "17982515238132454",
-    "obs": "automático"
-  },
-  "7386": {
-    "feed": "18124897654928892",
-    "story": "18044945159839977",
-    "obs": "automático"
-  },
-  "7390": {
-    "feed": "18186254437426492",
-    "story": "18142317343722545",
-    "obs": "automático"
-  },
-  "7392": {
-    "feed": "17908141734352208",
-    "story": "18349303939285404",
-    "obs": "automático"
-  },
-  "7396": {
-    "feed": "18111462998254568",
-    "story": "18198770734395158",
-    "obs": "automático"
-  },
-  "7399": {
-    "feed": "18440890183182853",
-    "story": "17917875996559035",
-    "obs": "automático"
-  },
-  "7401": {
-    "feed": "18246062911315723",
-    "story": "17916033438484929",
-    "obs": "automático"
-  },
-  "7402": {
-    "feed": "18020259491765754",
-    "story": "18116574392165229",
-    "obs": "automático"
-  },
-  "7404": {
-    "feed": "18123106856050010",
-    "story": "17976330210169833",
-    "obs": "automático"
-  },
-  "7406": {
-    "feed": "17878973781583642",
-    "story": "18155103220546259",
-    "obs": "automático"
-  },
-  "7411": {
-    "feed": "18108445019573764",
-    "story": "18582798967073576"
-  },
-  "7412": {
-    "feed": "17898710376615730",
-    "story": "17952528993349943"
-  }
+ "7204": {
+  "feed": "17870327796663450",
+  "story": "18101450843385144"
+ },
+ "7223": {
+  "feed": "17950783026299920",
+  "story": "18088807415295345"
+ },
+ "7225": {
+  "feed": "18110809648924982",
+  "story": "18120624641073717"
+ },
+ "7229": {
+  "feed": "17915407524547477",
+  "story": "18128438539859116"
+ },
+ "7230": {
+  "feed": "18116025937843288",
+  "story": "18092403359680075"
+ },
+ "_ignorados": {
+  "7199": "evento ja passou (24/10)",
+  "7196": "eleicoes/fora de linha",
+  "7149": "evento ja passou (31/10)"
+ },
+ "7241": {
+  "feed": "18016726820959331",
+  "story": "18104108081042478"
+ },
+ "7244": {
+  "feed": "18110103455249373",
+  "story": "17897712468681990",
+  "obs": "a rotina das 11h32 postou antes uma versao sem o logo oficial"
+ },
+ "7247": {
+  "feed": "18096850964246614",
+  "story": "17903648376378053"
+ },
+ "7249": {
+  "feed": "17953415748335704",
+  "story": "18350681533253992"
+ },
+ "7252": {
+  "feed": "18112317107223737",
+  "story": "18110860787183013"
+ },
+ "7254": {
+  "feed": "17898452865419349",
+  "story": "18161164294511853",
+  "obs": "carrossel+story publicados em 06/11 a pedido do Rodrigo; story sem figurinha de link (a API do Instagram nao permite)"
+ },
+ "7256": {
+  "feed": "17945298108093842",
+  "story": "17911136094593135",
+  "obs": "publicado manualmente em 06/11 (rotina antecipada nao fez o Instagram)"
+ },
+ "7258": {
+  "feed": "18114040862614328",
+  "story": "17944601370369407",
+  "obs": "reel; publicado manualmente em 06/11 (rotina antecipada nao fez o Instagram)"
+ },
+ "7260": {
+  "feed": "17915241072506838",
+  "story": "18118620416601045",
+  "obs": "publicado manualmente em 07/11 a pedido do Rodrigo (rotina das 7h nao fez o Instagram)"
+ },
+ "7263": {
+  "feed": "18119279456092182",
+  "story": "18139106305637719",
+  "obs": "publicado manualmente em 08/11 (rotina das 11h32 de 07/11 nao fez o Instagram)"
+ },
+ "7265": {
+  "feed": "17991717075116751",
+  "story": "17919228807535272",
+  "obs": "publicado manualmente em 08/11"
+ },
+ "7273": {
+  "feed": "18045883331834287",
+  "story": "17915213715499385",
+  "obs": "pedido manual do Rodrigo (rede de segurança não pegou)"
+ },
+ "7276": {
+  "feed": "17888419857624598",
+  "story": "18149245246585761",
+  "obs": "pauta do Rodrigo (post do Instagram DfcvxDHMhCa) em 09/11; carrossel+story"
+ },
+ "7283": {
+  "feed": "18045780728821137",
+  "story": "18137334355738603",
+  "obs": "automático"
+ },
+ "7285": {
+  "feed": "18103988024355492",
+  "story": "17931101835180907",
+  "obs": "automático; story saiu na 2ª tentativa (raw) após 'Media ID is not available' — conferir duplicado"
+ },
+ "7287": {
+  "feed": "17894692245448153",
+  "story": "17941732725388982",
+  "obs": "automático"
+ },
+ "7289": {
+  "feed": "18581196277077273",
+  "story": "18358269160301967",
+  "obs": "automático"
+ },
+ "7293": {
+  "feed": "18137246818663495",
+  "story": "18118536554141167",
+  "obs": "automático"
+ },
+ "7298": {
+  "feed": "18122813443962719",
+  "story": "18345266857259854",
+  "obs": "automático"
+ },
+ "7296": {
+  "feed": "17925262299447799",
+  "story": "18102981896530925",
+  "obs": "automático"
+ },
+ "7300": {
+  "feed": "18454587925135173",
+  "story": "18374558758209044",
+  "obs": "automático"
+ },
+ "7303": {
+  "feed": "18131262173310024",
+  "story": "18027168899864496",
+  "obs": "automático; carrossel publicado na 2ª execução (re-fire manual) via CDN após 3 falhas na 1ª (Only photo or video + Media ID is not available). Story publicado na 1ª."
+ },
+ "7307": {
+  "feed": "18358896022172066",
+  "story": "18171614476477721",
+  "obs": "automático"
+ },
+ "7310": {
+  "feed": "18358127998169031",
+  "story": "18189210277424589",
+  "obs": "automático"
+ },
+ "7313": {
+  "feed": "17914088991558766",
+  "story": "18093755975690057",
+  "obs": "automático"
+ },
+ "7316": {
+  "feed": "18155647828526607",
+  "story": "18130580740866110",
+  "obs": "automático"
+ },
+ "7318": {
+  "feed": "18094233341228527",
+  "story": "18108992738204845",
+  "obs": "automático"
+ },
+ "7319": {
+  "feed": "18134425126838449",
+  "story": "18028763624923567",
+  "obs": "automático"
+ },
+ "7322": {
+  "feed": "18110952038362847",
+  "story": "18049587686826478",
+  "obs": "automático"
+ },
+ "7323": {
+  "feed": "18136914805758541",
+  "story": "17916653811514340",
+  "obs": "automático"
+ },
+ "7325": {
+  "feed": "18099735638442757",
+  "story": "18121719409974424",
+  "obs": "automático"
+ },
+ "7327": {
+  "feed": "17922664317240518",
+  "story": "18112003892223168",
+  "obs": "automático"
+ },
+ "7329": {
+  "feed": "17894227113459066",
+  "story": "18122584648777626",
+  "obs": "automático"
+ },
+ "7330": {
+  "feed": "18092025386271368",
+  "story": "18000278006994373"
+ },
+ "7337": {
+  "feed": "18128275853513842",
+  "story": "18239999374319960",
+  "obs": "automático"
+ },
+ "7339": {
+  "feed": "18193841443409417",
+  "story": "18139913971643366",
+  "obs": "automático"
+ },
+ "7326": {
+  "feed": "17899100829416464",
+  "story": "18349043911281854",
+  "obs": "automático"
+ },
+ "7384": {
+  "feed": "18137089132671868",
+  "story": "17896566177435823",
+  "obs": "automático"
+ },
+ "7385": {
+  "feed": "17896974648615811",
+  "story": "17982515238132454",
+  "obs": "automático"
+ },
+ "7386": {
+  "feed": "18124897654928892",
+  "story": "18044945159839977",
+  "obs": "automático"
+ },
+ "7390": {
+  "feed": "18186254437426492",
+  "story": "18142317343722545",
+  "obs": "automático"
+ },
+ "7392": {
+  "feed": "17908141734352208",
+  "story": "18349303939285404",
+  "obs": "automático"
+ },
+ "7396": {
+  "feed": "18111462998254568",
+  "story": "18198770734395158",
+  "obs": "automático"
+ },
+ "7399": {
+  "feed": "18440890183182853",
+  "story": "17917875996559035",
+  "obs": "automático"
+ },
+ "7401": {
+  "feed": "18246062911315723",
+  "story": "17916033438484929",
+  "obs": "automático"
+ },
+ "7402": {
+  "feed": "18020259491765754",
+  "story": "18116574392165229",
+  "obs": "automático"
+ },
+ "7404": {
+  "feed": "18123106856050010",
+  "story": "17976330210169833",
+  "obs": "automático"
+ },
+ "7406": {
+  "feed": "17878973781583642",
+  "story": "18155103220546259",
+  "obs": "automático"
+ },
+ "7411": {
+  "feed": "18108445019573764",
+  "story": "18582798967073576"
+ },
+ "7412": {
+  "feed": "17898710376615730",
+  "story": "17952528993349943"
+ },
+ "7429": {
+  "feed": "18173483620462117",
+  "story": "18143353975725143",
+  "obs": "automático"
+ }
 }
