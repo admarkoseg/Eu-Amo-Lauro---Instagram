@@ -4,9 +4,9 @@
  "kind": "carousel",
  "label": "Previsão do tempo",
  "title": "Vai dar praia? *Dá nos 3 dias* em Lauro",
- "cover_file": "",
- "credit": "",
- "pan": 0.5,
+ "cover_file": "covers/7247/cand-20.jpg",
+ "credit": "Orla de Lauro · Foto: Arquivo/Prefeitura de Lauro de Freitas",
+ "pan": 0.35,
  "photo_pages": [
   "https://laurodefreitas.ba.gov.br/site/noticia/praias-de-lauro-de-freitas-atraem-turistas-na-alta-temporada-de-verao/6761",
   "https://laurodefreitas.ba.gov.br/site/noticia/prefeitura-reforca-atuacao-de-salva-vidas-e-orienta-banhistas-na-orla-de-lauro-de-freitas/6962",
