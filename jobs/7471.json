@@ -4,8 +4,8 @@
  "kind": "carousel",
  "label": "Seleção do IBGE",
  "title": "*Recenseador do IBGE:* inscrições até segunda (30/11)",
- "cover_file": "",
- "credit": "",
+ "cover_file": "covers/7471/escolhida.jpg",
+ "credit": "Recenseador do IBGE · Foto: Tânia Rêgo/Agência Brasil",
  "pan": 0.5,
  "photo_pages": [
   "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48748-inscricoes-para-pss-de-recenseador-do-ibge-sao-prorrogadas-ate-o-dia-30-de-novembro",
@@ -29,10 +29,10 @@
    "label": "Salário e jornada",
    "heading": "Até R$ 4.370 por mês, sem garantia do teto",
    "bullets": [
-    "Fixo de R$ 1.741 + variável até R$ 2.629",
+    "Fixo de R$ 1.741 por mês",
+    "Variável de até R$ 2.629",
     "Auxílio-alimentação de R$ 1.192",
-    "40 horas semanais, trabalho de campo",
-    "Contrato temporário de até 6 meses"
+    "40h semanais, contrato até 6 meses"
    ]
   },
   {
@@ -42,7 +42,7 @@
     "Taxa de R$ 70, paga até 9/12",
     "Conta gov.br prata recomendada",
     "Prova prevista para 31/1/2027",
-    "Dúvidas: Cesgranrio 0800 701 2028"
+    "Cesgranrio: 0800 701 2028"
    ]
   }
  ],
