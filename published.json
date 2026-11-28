@@ -338,5 +338,10 @@
   "feed": "18122821924956952",
   "story": "18103228613421271",
   "obs": "automático"
+ },
+ "7468": {
+  "feed": "18134616163692331",
+  "story": "18001060196831162",
+  "obs": "automático (raw.githubusercontent após erro da CDN)"
  }
 }
